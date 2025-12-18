@@ -1,0 +1,1 @@
+import { generateSimpleBoxPlan } from '../plans/generatePlan'
